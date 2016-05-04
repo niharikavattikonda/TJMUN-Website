@@ -1,0 +1,15 @@
+table.viewInfo {
+	width: 100%;
+}
+td.viewInfo {
+	background-color: #dddddd;
+	padding: 4px;
+}
+td.viewInfo_leftColumn {
+	text-align: right;
+	font-weight: bold;
+	width: 55%;
+}
+td.viewInfo_rightColumn {
+	width: 45%;
+}

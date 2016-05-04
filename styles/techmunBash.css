@@ -1,0 +1,23 @@
+table.techmunBash {
+	width: 100%;
+}
+td.techmunBash {
+	background-color: #dddddd;
+	padding: 4px;
+}
+td.techmunBash_left {
+	width: 385px;
+}
+td.techmunBash_center {
+	width: 100px;
+}
+td.techmunBash_right {
+	width: 100px;
+}
+td.formMaker_column_left {
+	text-align: right;
+	width: 150px;
+}
+input[type="submit"].formMaker {
+	margin: 5px 153px;
+}

@@ -1,0 +1,3 @@
+#prevent access from prying eyes...
+Order Allow,Deny
+Deny from all

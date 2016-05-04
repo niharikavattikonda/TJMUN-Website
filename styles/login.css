@@ -1,0 +1,7 @@
+table.formMaker {
+	width: 100%;
+}
+td.formMaker_column_left {
+	text-align: right;
+	width: 200px;
+}

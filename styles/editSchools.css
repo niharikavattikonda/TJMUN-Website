@@ -1,0 +1,15 @@
+table.editSchools {
+	width: 100%;
+}
+td.editSchools {
+	background-color: #dddddd;
+	padding: 4px;
+}
+td.editSchools_column_left {
+	text-align: right;
+	font-weight: bold;
+	width: 55%;
+}
+td.editSchools_column_right {
+	width: 45%;
+}
